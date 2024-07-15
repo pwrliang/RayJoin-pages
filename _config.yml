@@ -1,7 +1,7 @@
 title: RayJoin
 logo: /assets/img/rayjoin.webp
 description: Fast and Precise Spatial Join on RT Cores
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 github:
