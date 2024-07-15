@@ -5,4 +5,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 github:
+  zip_url: https://github.com/pwrliang/RayJoin/archive/refs/heads/main.zip
   repository_url: https://github.com/pwrliang/RayJoin
